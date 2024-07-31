@@ -14,10 +14,10 @@ const links = [
       "I like to talk about random things.",
   },
   {
-    text: "Test Page (About)",
+    text: "About Me",
     url: "/about",
     description:
-      "Learn about me or something.",
+      "My name is in the domain >:)",
   },
   {
     text: "Projects",
