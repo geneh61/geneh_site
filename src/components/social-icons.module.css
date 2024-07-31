@@ -1,0 +1,25 @@
+.socialIcons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .iconLink {
+    display: inline-block;
+    transition: transform 0.3s ease;
+  }
+  
+  .iconLink:hover {
+    transform: scale(1.1);
+  }
+  
+  .icon {
+    width: 24px;
+    height: 24px;
+    /* fill: white; */
+  }
+  
+  .iconLink:hover .icon {
+    fill: #FFC4C4; 
+  }

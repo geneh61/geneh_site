@@ -5,16 +5,25 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "babel-plugin-styled-components": "^2.1.4",
     "gatsby": "^5.13.5",
     "gatsby-plugin-image": "^3.13.1",
     "gatsby-plugin-manifest": "^5.13.1",
     "gatsby-plugin-sharp": "^5.13.1",
+    "gatsby-plugin-styled-components": "^6.13.1",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-source-filesystem": "^5.13.1",
+    "gatsby-transformer-remark": "^6.13.1",
     "gatsby-transformer-sharp": "^5.13.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-bootstrap": "2.10.4",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.25.1",
+    "styled-components": "^6.1.12"
   },
   "devDependencies": {
+    "@types/node": "20.8.8",
+    "@types/react": "18.2.31",
     "prettier": "^2.8.8"
   },
   "keywords": [
