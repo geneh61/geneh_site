@@ -19,6 +19,11 @@ const ProjectsTitle = styled.h1`
 const ProjectsPage = () => {
   const projects = [
     {
+      title: "YouTube Caption Translator",
+      description: "Browser extension that translates YouTube captions using Gemini API.",
+      githubUrl: "https://chromewebstore.google.com/detail/youtube-caption-translato/galnonhhackeloafnogiijikiilmkjga"
+    },
+    {
       title: "Online Custom Quiz Lobby",
       description: "Kahoot Clone that utilizes web sockets.",
       githubUrl: "https://github.com/yesh0907/Toohak-BE"
