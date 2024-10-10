@@ -19,6 +19,11 @@ const ProjectsTitle = styled.h1`
 const ProjectsPage = () => {
   const projects = [
     {
+      title: "Image Metadata Extension",
+      description: "Browser extension that allows you to view additional image metadata",
+      githubUrl: "https://chromewebstore.google.com/detail/image-metadata-viewer-wit/bamcjefcmopjogaooandceacncgbdgbf"
+    },
+    {
       title: "YouTube Caption Translator",
       description: "Browser extension that translates YouTube captions using Gemini API.",
       githubUrl: "https://chromewebstore.google.com/detail/youtube-caption-translato/galnonhhackeloafnogiijikiilmkjga"
