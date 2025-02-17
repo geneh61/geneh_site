@@ -19,6 +19,11 @@ const ProjectsTitle = styled.h1`
 const ProjectsPage = () => {
   const projects = [
     {
+      title: "Auto Video Clipper",
+      description: "Python script that splits videos into clips!",
+      githubUrl: "https://github.com/geneh61/AutoClipper"
+    },
+    {
       title: "Image Metadata Extension",
       description: "Browser extension that allows you to view additional image metadata",
       githubUrl: "https://chromewebstore.google.com/detail/image-metadata-viewer-wit/bamcjefcmopjogaooandceacncgbdgbf"

@@ -1,6 +1,6 @@
 ---
 title: "A Measurable Increase in Ability"
-date: "2023-07-31"
+date: "2024-07-31"
 description: "How can you know when you're getting better at something without quantitative data?"
 ---
 

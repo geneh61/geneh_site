@@ -1,6 +1,6 @@
 ---
 title: "The Job Market Bubble and Technical Debt"
-date: "2023-07-29"
+date: "2024-07-29"
 description: "How much value are tech workers really providing and are we treating them properly?"
 ---
 
