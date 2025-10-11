@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background-dark: #111827;
+  --color-accent-teal: #14b8a6;
+  --color-accent-purple: #8b5cf6;
+  --color-accent-orange: #f97316;
+}
+
+.glass-card {
+  background: rgba(31, 41, 55, 0.5);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.neumorphic-button {
+  background: #1f2937;
+  color: #a1a1aa;
+  box-shadow: 4px 4px 8px #111827, -4px -4px 8px #2d3a4b;
+  transition: all 0.2s ease-in-out;
+}
+.neumorphic-button:active {
+  box-shadow: inset 4px 4px 8px #111827, inset -4px -4px 8px #2d3a4b;
+}
+
+.prose p {
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+}
