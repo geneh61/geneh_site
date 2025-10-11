@@ -32,7 +32,7 @@ const Hero = () => {
           />
 
           <h1 className="mb-4 text-4xl font-bold tracking-tight text-white md:text-6xl">
-            Hey, I'm <span className="text-accent-teal">Gene.</span>
+            Hey, I&apos;m <span className="text-accent-teal">Gene.</span>
           </h1>
 
           <TypeAnimation

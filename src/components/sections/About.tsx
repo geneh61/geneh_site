@@ -41,7 +41,7 @@ const About = () => {
         >
           <h2 className="text-4xl font-bold mb-4">A Little More About Me</h2>
           <p className="text-gray-300 leading-relaxed mb-6">
-            Hello! I'm Gene, a developer with a passion for building clean, intuitive, and performant applications. My journey into tech started with a simple curiosity for how things work, and it has since grown into a full-fledged passion. I thrive on solving complex problems and learning how new technologies work.
+            Hello! I&apos;m Gene, a developer with a passion for building clean, intuitive, and performant applications. My journey into tech started with a simple curiosity for how things work, and it has since grown into a full-fledged passion. I thrive on solving complex problems and learning how new technologies work.
           </p>
 
           <h3 className="text-2xl font-semibold mb-4 text-accent-teal">My Skillset</h3>

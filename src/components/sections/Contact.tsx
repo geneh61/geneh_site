@@ -12,7 +12,7 @@ export default function Contact() {
       <section id="contact" className="py-24 px-4 sm:px-6 lg:px-8 bg-[--color-background-dark]">
         <div className="container mx-auto max-w-3xl text-center">
           <h2 className="text-4xl font-bold mb-4">Thanks for your message!</h2>
-          <p className="text-gray-300">I'll get back to you as soon as possible.</p>
+          <p className="text-gray-300">I&apos;ll get back to you as soon as possible.</p>
         </div>
       </section>
     );

@@ -26,7 +26,7 @@ const Projects = () => {
   return (
     <section id="projects" className="py-24 px-4 sm:px-6 lg:px-8">
       <div className="container mx-auto">
-        <h2 className="mb-12 text-center text-4xl font-bold">Things I've Built</h2>
+        <h2 className="mb-12 text-center text-4xl font-bold">Things I&apos;ve Built</h2>
         <motion.div 
           className="grid gap-8 md:grid-cols-2 lg:grid-cols-3"
           variants={containerVariants}
